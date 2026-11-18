@@ -1,8 +1,8 @@
- Salom! Men Hokimbek 👋
+# Salom! Men Hokimbek 👋
 
 
 
- Farg‘ona, 8-sinf. Dasturlashni o‘rganyapman.
+## Farg‘ona, 8-sinf. Dasturlashni o‘rganyapman.
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-Loyihalarim
+## Loyihalarim
 
 - [men-haqimda] (https://github.com/khokimbey/men-haqimda)
 
