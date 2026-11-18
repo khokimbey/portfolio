@@ -16,5 +16,5 @@
 
 Loyihalarim
 
-- {men-haqimda} (https://github.com/khokimbey/men-haqimda)
+- [men-haqimda] (https://github.com/khokimbey/men-haqimda)
 
