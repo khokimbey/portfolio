@@ -1,12 +1,12 @@
-\# Salom! Men Hokimbek 👋
+/ Salom! Men Hokimbek 👋
 
 
 
-\## Farg‘ona, 8-sinf. Dasturlashni o‘rganyapman.
+\ Farg‘ona, 8-sinf. Dasturlashni o‘rganyapman.
 
 
 
-\## Hozir o‘rganyapman
+\ Hozir o‘rganyapman
 
 \- Git \& GitHub ✅
 
